@@ -31,9 +31,12 @@ Create a `.env file` in the project's root directory and define your environment
 ## Usage
 1.Setup Telegram Integration:
 Configure your bot on Telegram and obtain the API token and chat ID.
+
 2.Configure TradingView Alerts:
 Set up alerts on TradingView for the assets and conditions you want to monitor.
+
 3.Bot Configuration:
 Customize the bot's behavior by editing the configuration options in the .env file.
+
 4.Run the Bot:
 Start the bot using npm start to begin listening for TradingView alerts and sending them to your Telegram channel or group.
