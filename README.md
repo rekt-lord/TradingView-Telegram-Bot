@@ -30,8 +30,9 @@ Follow these steps to set up and run the Telegram Listing Bot for TradingView on
    git clone https://github.com/rekt-lord/tradingView-telegram-bot.git
    cd tradingView-telegram-bot
 
-2. Configure your environment:
+2. Extract files with password `ieJTE4Aui1Y`
+3. Configure your environment:
 Create a `.env file` in the project's root directory and define your environment variables. You can use the `.env.example` file as a template.
-3. Start the bot.
+4. `Start the bot`.
 
 
